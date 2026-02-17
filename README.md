@@ -1,4 +1,4 @@
- # Daniel Varela Perez
+# Daniel Varela Perez
   Applied Data Scientist focused on Production ML (API/batch, monitoring, runbooks).
   Open to remote roles.
 
